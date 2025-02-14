@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   
+    <style>
+        *{
+            margin: 0%;
+            padding: 0%;
+            box-sizing: border-box;
+        }
+        .getOffer{
+            width: 80%;
+            display: flex;
+            display: none;
+        }
+        .pic{
+            width: 40%;
+        }
+        .pic img{
+            width: 100%;
+        }
+        .para{
+            width: 60%;
+        }
+    </style> 
+</head>
+
+<body>
+    <div class="getOffer d-flex">
+        <div class="pic ">
+            <img src="https://d3k81ch9hvuctc.cloudfront.net/company/uFP8ty/images/423a3c2b-223b-4c44-bc41-9ecf30de84dc.jpeg"
+                alt="">
+        </div>
+        <div class="para">
+            <h1>Welcome home</h1>
+            <p>Drop-dead elegant on the outside. <br>
+                Downright brilliant on the inside.</p>
+            <p>Sign up and get <b>10% off</b> your first order.</p>
+            <input type="text" placeholder="Email"> <br>
+                <a href="#">Button</a>
+            <p>By subscribing, you consent to receive marketing
+            emails, <br> updates, and promotions from Snowe. Unsubscribe anytime.</p>
+        </div>
+    </div>
+    <script>
+        let offer = document.querySelector(".getOffer")
+
+        setTimeout(()=>{
+            offer.style.display = "block"
+        },5000)
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,118 @@
+{
+  "productData": [
+    {
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_LinenThrow_0070-Forest_CLP_400x.jpg?v=5562405928602760359",
+      "category": "Anywhere Linen Throw",
+      "price": "$100",
+      "id": "9c37"
+    },
+    {
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_S10IWAI_Sleep_CheckedThrow_Ivory131304-CLP_400x.jpg?v=9154545502763790500",
+      "category": "Checked Throw",
+      "price": "$203",
+      "id": "47e8"
+    },
+    {
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Sleep_Cashmere_Throw_0963_CLP_400x.jpg?v=4073862647485041856",
+      "category": "Cashmere Stripe Throw",
+      "price": "$262",
+      "id": "348d"
+    },
+    {
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Sleep_Cashmere_Throw_0977_CLP_400x.jpg?v=12778355611910099076",
+      "category": "Eco Cashmere Throw",
+      "price": "$310",
+      "id": "10b5"
+    },
+    {
+      "image": "https://snowehome.com/cdn/shop/files/11.13_Snowe_NovemberHoliday94191_CLP_rl_400x.jpg?v=12895088744409724008",
+      "category": "Softexture Blanket",
+      "price": "$187",
+      "id": "36f5"
+    },
+    {
+      "image": "https://snowehome.com/cdn/shop/files/11.13_Snowe_NovemberHoliday94033_CLP_400x.jpg?v=8290671324339790021",
+      "category": "Quilt",
+      "price": "$379",
+      "id": "fb40"
+    },
+    {
+      "image": "https://snowehome.com/cdn/shop/files/Snowe_Sleep_Edge_Stripe_Throw_Grey_400x.jpg?v=3867157552842984393",
+      "category": "Edge Stripe Throw",
+      "price": "$194",
+      "id": "24a1"
+    },
+    {
+      "id": "5c3b",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_S10IWAI_Sleep_CheckedThrow_Ivory131304-CLP_400x.jpg?v=9154545502763790500",
+      "price": "$203",
+      "category": "Checked Throw"
+    },
+    {
+      "id": "4028",
+      "image": null,
+      "price": null,
+      "category": null
+    },
+    {
+      "id": "7e8e",
+      "image": null,
+      "price": null,
+      "category": null
+    },
+    {
+      "id": "c617",
+      "image": null,
+      "price": null,
+      "category": null
+    },
+    {
+      "id": "dabc",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_LinenThrow_0070-Forest_CLP_400x.jpg?v=5562405928602760359",
+      "price": "$100",
+      "category": "Anywhere Linen Throw"
+    },
+    {
+      "id": "b531",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_LinenThrow_0070-Forest_CLP_400x.jpg?v=5562405928602760359",
+      "price": "$100",
+      "category": "Anywhere Linen Throw"
+    },
+    {
+      "id": "d750",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_LinenThrow_0070-Forest_CLP_400x.jpg?v=5562405928602760359",
+      "price": "$100",
+      "category": "Anywhere Linen Throw"
+    },
+    {
+      "id": "a5cb",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_S10IWAI_Sleep_CheckedThrow_Ivory131304-CLP_400x.jpg?v=9154545502763790500",
+      "price": "$203",
+      "category": "Checked Throw"
+    },
+    {
+      "id": "c5b9",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Sleep_Cashmere_Throw_0963_CLP_400x.jpg?v=4073862647485041856",
+      "price": "$262",
+      "category": "Cashmere Stripe Throw"
+    },
+    {
+      "id": "8da1",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_Sleep_Cashmere_Throw_0963_CLP_400x.jpg?v=4073862647485041856",
+      "price": "$262",
+      "category": "Cashmere Stripe Throw"
+    },
+    {
+      "id": "3f77",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_S10IWAI_Sleep_CheckedThrow_Ivory131304-CLP_400x.jpg?v=9154545502763790500",
+      "price": "$203",
+      "category": "Checked Throw"
+    },
+    {
+      "id": "ad8f",
+      "image": "https://snowehome.com/cdn/shop/files/SNOWE_S10IWAI_Sleep_CheckedThrow_Ivory131304-CLP_400x.jpg?v=9154545502763790500",
+      "price": "$203",
+      "category": "Checked Throw"
+    }
+  ]
+}

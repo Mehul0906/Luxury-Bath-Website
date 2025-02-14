@@ -1,0 +1,400 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+  list-style: none;
+}
+
+.top p {
+  background-color: #3d3538;
+  height: 50px;
+}
+
+.top {
+  color: white;
+  text-align: center;
+}
+
+#carouselExampleIndicators {
+  position: relative;
+  top: 50px;
+  width: 100%;
+  height: 600px;
+}
+
+#carouselExampleIndicators img {
+  height: 550px;
+}
+
+.cart-btn {
+  width: 45%;
+  height: 60px;
+  border: none;
+  background-color: #3d3538;
+  color: white;
+  font-weight: 600;
+  transition: 0.4s;
+}
+.cart-btn:hover {
+  background-color: white;
+  color: black;
+}
+
+.navbar {
+  margin-top: 50px;
+  z-index: 1000;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  border-bottom: 1px solid grey;
+}
+
+.navbar.sticky {
+  background-color: white;
+}
+
+.navbar.sticky a {
+  color: black;
+}
+
+.navbar.sticky button {
+  color: black;
+}
+
+.navbar button {
+  color: rgb(0, 0, 0);
+}
+
+.navbar a {
+  color: rgb(0, 0, 0);
+}
+
+/* .navbar:hover {
+    background-color: white;
+} */
+
+.navbar:hover button {
+  color: black;
+}
+
+.navbar:hover a {
+  color: black;
+}
+
+nav {
+  display: flex;
+  height: 90px;
+  justify-content: space-between;
+  align-items: center;
+}
+.dropdown:hover .submenu {
+  transition: 0.3s all ease-in-out;
+  margin-top: 5px;
+}
+.dropdown:hover .submenu1 {
+  display: flex;
+  transition: 0.3s all ease-in-out;
+  height: 330px;
+  margin-top: 5px;
+}
+.dropdown:hover .menu {
+  display: block;
+  transition: 0.3s all ease-in-out;
+}
+
+.call {
+  color: white;
+}
+
+.top-tog {
+  position: relative;
+  top: 0%;
+  left: 0%;
+}
+.top-tog {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  width: 40%;
+  height: 80px;
+  border: none;
+  outline: none;
+  border-bottom: none;
+}
+.navbar:hover .call {
+  color: black;
+}
+
+.navbar.sticky .call {
+  color: black;
+}
+
+.carousel-item {
+  position: relative;
+  text-align: center;
+}
+
+.carousel-item h1 {
+  position: absolute;
+  color: white;
+  top: 25%;
+  width: 100%;
+  z-index: 1000;
+  font-weight: bold;
+  font-size: 80px;
+}
+
+.carousel-item h3 {
+  font-style: italic;
+  position: absolute;
+  z-index: 1000;
+  top: 45%;
+  width: 100%;
+  color: white;
+  font-size: 35px;
+}
+
+.carousel-item a {
+  background-color: #3d3538;
+  color: white;
+  position: absolute;
+  text-decoration: none;
+  top: 60%;
+  left: 35%;
+  z-index: 1000;
+  font-weight: bold;
+}
+
+.carousel-item .last {
+  color: white;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  font-style: normal;
+}
+
+.carousel-item .last:hover {
+  color: black;
+  transition: 0.2s;
+}
+
+.carousel-item i {
+  font-size: 40px;
+}
+
+.carousel-item p {
+  font-weight: bold;
+}
+
+.carousel-item a:hover {
+  background-color: white;
+  color: black;
+  transition: 0.3s;
+}
+
+.Dis-line {
+  margin-top: 10%;
+}
+.dis-small-con a {
+  text-decoration: none;
+  color: grey;
+}
+.swiper {
+  width: 100%;
+}
+.swiper-slide {
+  font-family: "Open Sans", sans-serif;
+  background-size: cover;
+  background-position: 100%;
+  /* min-height: 100vh; */
+  height: 420px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.swiper-button-prev:hover {
+  color: #69f0ae;
+  transition: all linear 0.3s;
+}
+
+.swiper-button-next:hover {
+  color: #69f0ae;
+  transition: all linear 0.3s;
+}
+.sleep-content a {
+  text-decoration: none;
+  color: #3d3538;
+}
+.sleep-small-content {
+  padding-left: 20px;
+}
+.sleep-main-content {
+  padding-top: 6px;
+}
+.sleep-main-content a {
+  color: grey;
+  transition: 0.6s;
+}
+.sleep-content a:hover {
+  font-weight: 400;
+  color: black;
+}
+.sleep-page-img {
+  position: relative;
+}
+.sleep-page-img-second {
+  height: 300px;
+  position: absolute;
+  top: 12%;
+  left: 7%;
+  width: 300px;
+  background-color: white;
+}
+.First-div {
+  position: relative;
+  margin-top: 2%;
+}
+.First-div .line {
+  position: absolute;
+  transform: translate(-50px -50px);
+  top: 66%;
+  height: 8px;
+  width: 10%;
+  background-color: white;
+  left: 50.5%;
+}
+.First-div h1 {
+  position: absolute;
+  color: white;
+  transform: translate(-50px -50px);
+  top: 50%;
+  font-size: 56px;
+  left: 40%;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.underline-hover-effect {
+  display: inline-block;
+  padding-bottom: 0.99rem;
+  position: relative;
+}
+
+.underline-hover-effect::before {
+  content: "";
+  position: absolute;
+  left: 10%;
+  top: 65px;
+  width: 0;
+  height: 2px;
+  background-color: black;
+  transition: all ease-in-out 0.25s;
+}
+
+.underline-hover-effect:hover::before {
+  width: 80%;
+}
+.sleep-small-bottle {
+  position: absolute;
+  top: 1%;
+  left: 58%;
+}
+.sleep-small-bottle img {
+  width: 40%;
+  padding-left: 25px;
+}
+.sleep-small-bottle button {
+  background-color: white;
+  border: none;
+}
+.small-cart {
+  position: absolute;
+  top: 85%;
+  left: 5%;
+}
+.small-cart img {
+  width: 55%;
+}
+.Dis-line-small {
+  margin-top: 8%;
+  width: 65%;
+  background-color: grey;
+  height: 2px;
+}
+.dis-btn-cart {
+  width: 65%;
+  padding: 15px 15px 15px 15px;
+  margin-left: 40px;
+  margin-top: 20px;
+  border: none;
+  color: white;
+  background-color: #3d3538;
+  transition: 0.6s;
+}
+.dis-btn-cart:hover {
+  color: black;
+  background-color: white;
+  border: 2px solid #3d3538;
+}
+
+.footer {
+  background-color: #3d3538;
+  position: relative;
+}
+
+.footer p {
+  color: white;
+  margin-right: 30%;
+}
+.footer .shopy {
+  margin-right: 20%;
+}
+.footer a {
+  color: white;
+  display: flex;
+  text-decoration: none;
+}
+.footer a:hover {
+  transform: translateX(+5px);
+  transition: 0.5s;
+  color: white;
+}
+
+.lastwo input {
+  background-color: #3d3538;
+  width: 48%;
+  margin-left: 40%;
+  outline: none;
+  border: transparent;
+  border-bottom: 1px solid white;
+}
+input:hover {
+  border-bottom: 1px solid black;
+}
+.lastwo h6 {
+  margin-left: 29%;
+}
+.iconlast {
+  margin-left: 22%;
+}
+.footer i {
+  font-size: 20px;
+  transition: 0.5s;
+}
+
+.footer i:hover {
+  color: grey;
+}
+
+#start-side {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 18%;
+  line-height: 25px;
+}
